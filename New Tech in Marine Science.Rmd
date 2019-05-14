@@ -1,6 +1,6 @@
 ---
 title: "New Tech in Marine Science"
-output: html_document
+output: github_document
 ---
 
 # Practice using R Markdown
@@ -49,5 +49,7 @@ hist(rnorm(1000))
 ### GitHub version control
 
 - Github is useful for completing documents together with colaborators
+
+- Should make a commit after doing a significant change
 
  
