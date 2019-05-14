@@ -7,6 +7,9 @@ output: html_document
 
 ## Day 2 - Josh teaching us R
 
+Really fun day coding.
+just changing some things to check and make sure git is working.
+
 ### 5/14/2019
 
 
@@ -43,5 +46,8 @@ hist(rnorm(1000))
 hist(rnorm(1000))
 ```
 
+### GitHub version control
+
+- Github is useful for completing documents together with colaborators
 
  
