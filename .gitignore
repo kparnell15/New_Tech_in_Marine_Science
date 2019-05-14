@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# this is to hide folders that are shown in the Git environment to the right
+# you must save the gitignore file in order for these folders to disappear
+
+New_Tech_in_Marine_Science.html

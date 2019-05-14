@@ -1,0 +1,47 @@
+---
+title: "New Tech in Marine Science"
+output: html_document
+---
+
+# Practice using R Markdown
+
+## Day 2 - Josh teaching us R
+
+### 5/14/2019
+
+
+Use the Markdown Quick Reference for help. Go to Help, Markdown Quick Reference
+
+To view the Markdown page, click on **Knit**
+
+The Summer Course started yesterday. We:
+ 
+ - Ran over intros
+ 
+ - Island tour
+ 
+ - Shopping at SafeWay
+ 
+ Here is a website Josh likes: <http://jmadinlab.org>
+ 
+ This is how to add an equation
+ $$ x^2 = \frac{y^2}{z^2} $$
+ 
+ Here is a photo of the island and **HIMB**:
+ 
+ ![HIMB](data/download.jpg)
+ 
+ > Figure 1: Histogram of ant heights
+ 
+ - This is how you add your code from r into markdown
+```{r}
+hist(rnorm(1000))
+```
+ 
+- This is how to add the histogram without the r code on the markdown page
+```{r, echo=FALSE}
+hist(rnorm(1000))
+```
+
+
+ 
